@@ -45,3 +45,11 @@ You’ll want to multiply by 7 to get the total hours you prefer per week.
 #7 Test your two new functions by calling them and printing the results to the console.
 
 You can remove the tests when you know your functions works.
+
+#8 Now that you can get the actual sleep hours and the ideal sleep hours, it’s time to calculate sleep debt.
+
+Create a function named calculateSleepDebt with no parameters.
+
+Inside of its block, create a variable named actualSleepHours set equal to the getActualSleepHours() function call.
+
+Then, create another variable named idealSleepHours, set equal to the getIdealSleepHours() function call.
