@@ -42,11 +42,11 @@ Inside the function, declare a variable named idealHours and set its value to yo
 
 You’ll want to multiply by 7 to get the total hours you prefer per week.
 
-#7 Test your two new functions by calling them and printing the results to the console.
+**#7** Test your two new functions by calling them and printing the results to the console.
 
 You can remove the tests when you know your functions works.
 
-#8 Now that you can get the actual sleep hours and the ideal sleep hours, it’s time to calculate sleep debt.
+**#8** Now that you can get the actual sleep hours and the ideal sleep hours, it’s time to calculate sleep debt.
 
 Create a function named calculateSleepDebt with no parameters.
 
@@ -59,3 +59,5 @@ Then, create another variable named idealSleepHours, set equal to the getIdealSl
 If actual sleep equals ideal sleep, log to the console that the user got the perfect amount of sleep. <br/>
 If the actual sleep is greater than the ideal sleep, log to the console that the user got more sleep than needed. <br/>
 If the actual sleep is less than the ideal sleep, log to the console that the user should get some rest. <br/>
+
+**#10** To make this calculator more helpful, add the hours the user is over or under their ideal sleep in each log statement in calculateSleepDebt().
