@@ -56,6 +56,6 @@ Then, create another variable named idealSleepHours, set equal to the getIdealSl
 
 **#9** Now that you have actualSleepHours and idealSleepHours, you can write a few if/else statements to output the result to the console. The function should fulfill this logic:
 
-If actual sleep equals ideal sleep, log to the console that the user got the perfect amount of sleep.
-If the actual sleep is greater than the ideal sleep, log to the console that the user got more sleep than needed.
-If the actual sleep is less than the ideal sleep, log to the console that the user should get some rest.
+If actual sleep equals ideal sleep, log to the console that the user got the perfect amount of sleep. <br/>
+If the actual sleep is greater than the ideal sleep, log to the console that the user got more sleep than needed. <br/>
+If the actual sleep is less than the ideal sleep, log to the console that the user should get some rest. <br/>
