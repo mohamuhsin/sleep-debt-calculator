@@ -6,7 +6,7 @@ The program will determine the actual and ideal hours of sleep for each night of
 
 Finally, it will calculate, in hours, how far you are from your weekly sleep goal.
 
-#Tasks
+# Tasks
 
 #1 The first problem to solve is determining how many hours of sleep you got each night of the week.
 
