@@ -61,3 +61,5 @@ If the actual sleep is greater than the ideal sleep, log to the console that the
 If the actual sleep is less than the ideal sleep, log to the console that the user should get some rest. <br/>
 
 **#10** To make this calculator more helpful, add the hours the user is over or under their ideal sleep in each log statement in calculateSleepDebt().
+
+**#11** On the last line of the program, start the program by calling the calculateSleepDebt() function.
