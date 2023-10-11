@@ -13,3 +13,9 @@ Finally, it will calculate, in hours, how far you are from your weekly sleep goa
 You can create a function that returns any given night’s number of hours of rest. Instead of writing seven different functions (one for each day of the week), let’s write one function with a parameter for the day.
 
 Create a function named getSleepHours with a single parameter named day.
+
+#2 The function should accept a day as an argument and return the number of hours you slept that night.
+
+For instance, if you got 8 hours of sleep on Monday night, calling getSleepHours('monday') should return 8.
+
+Use an if/else or switch statement to implement this.
