@@ -41,3 +41,7 @@ To get the total sleep hours that you actually slept, create a new function name
 Inside the function, declare a variable named idealHours and set its value to your ideal hours per night. Then return the idealHours multiplied by 7.
 
 You’ll want to multiply by 7 to get the total hours you prefer per week.
+
+#7 Test your two new functions by calling them and printing the results to the console.
+
+You can remove the tests when you know your functions works.
