@@ -23,3 +23,13 @@ Use an if/else or switch statement to implement this.
 #3 Test the function by calling it multiple times and printing the results to the console.
 
 You can remove the tests when you know your function works.
+
+#4 Now that you’ve written a function to get the sleep hours for each night, we need to do three things:
+
+Get the total sleep hours that you actually slept
+
+Get the ideal sleep hours that you prefer
+
+Calculate the sleep debt, if any.
+
+To get the total sleep hours that you actually slept, create a new function named getActualSleepHours that takes no parameters.
