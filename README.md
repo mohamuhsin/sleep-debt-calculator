@@ -35,3 +35,9 @@ Calculate the sleep debt, if any.
 To get the total sleep hours that you actually slept, create a new function named getActualSleepHours that takes no parameters.
 
 #5 Inside the getActualSleepHours() function, call the getSleepHours() function for each day of the week. Add the results together and return the sum using an implicit return.
+
+#6 To get the ideal sleep hours that you prefer, create a function named getIdealSleepHours with no parameters.
+
+Inside the function, declare a variable named idealHours and set its value to your ideal hours per night. Then return the idealHours multiplied by 7.
+
+You’ll want to multiply by 7 to get the total hours you prefer per week.
