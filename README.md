@@ -19,3 +19,7 @@ Create a function named getSleepHours with a single parameter named day.
 For instance, if you got 8 hours of sleep on Monday night, calling getSleepHours('monday') should return 8.
 
 Use an if/else or switch statement to implement this.
+
+#3 Test the function by calling it multiple times and printing the results to the console.
+
+You can remove the tests when you know your function works.
